@@ -84,7 +84,7 @@ https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 ## Conclusions
 
 - The following factors are likely to affect customer churn:
->- importance of each key factor: Age > Geography > IsActiveMember > Balance > Gender
+>- Importance of each key factor: Age > Geography > IsActiveMember > Balance > Gender
 >>- customers aged around 45 has highest customer churn rate. Generally, for customers aged over 40, a high customer churn rate is espected.
 >>- Germany has the highest customer churn rate
 >>- Not active member is more likely to stay
