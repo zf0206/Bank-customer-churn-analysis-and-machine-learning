@@ -15,7 +15,7 @@ Customer churn refers to the percentage of customers who have stopped services p
 - Optimize bank products and services
 - Customer retention and revenue generation
 
-## 4. Dataset
+## 4. Methodology
 
 Bank customer churn prediction is fundamentally a classification problem, with target variable being categorical (churn vs. no churn).
 High level analysis (churn rate) is numerical.
@@ -41,6 +41,7 @@ Dataset used including a total of 14 columns, 10000 entries:
 
 https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 
+**Steps**
 - Data processing
 
 >- Data loading/reading
