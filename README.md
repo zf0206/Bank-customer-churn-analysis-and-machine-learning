@@ -1,5 +1,5 @@
 # Bank-customer-churn-analysis-and-machine-learning
-This is a personal project for practicing. Dataset is available from Kaggle  https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
+This is a personal project for practising. 
 
 ## 1. Background
 Banks are categorically known for being long-standing business. Customers who stay with a bank for longer periods of time would make the bank more profitable. Therefore understanding and preventing **_customer churn_** is essential of banking success.
@@ -22,6 +22,8 @@ High level analysis (churn rate) is numerical.
 
 **Dataset**
 
+_Dataset is available from Kaggle  https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers_
+
 Dataset used including a total of 14 columns, 10000 entries:
 
 - **RowNumber**—row number only
@@ -39,7 +41,6 @@ Dataset used including a total of 14 columns, 10000 entries:
 - **EstimatedSalary**—estimate salary
 - **Exited**—target, whether or not the customer left the bank, '0' means customer stayed, '1' means customer churned
 
-https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 
 **Steps**
 - Data processing
